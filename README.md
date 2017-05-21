@@ -14,6 +14,8 @@ python3 Main.py -arg1 arg2 [-arg1 = Type of lottery | -arg2 = Number of simulati
 Example to simulate the Euro Millions.
 python3 Main.py -e 1000000 [Runs 1 million simulations]
 
+Feel free to ask questions or comment/edit. Email: Gedzy@live.co.uk
+
 
 
 
