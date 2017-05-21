@@ -3,7 +3,7 @@ Simulate diferent types of lotteries.
 
 Requirements:
 
-Must have python3 install. 
+Must have python3 installed. 
 Using linux/arch system. 
 Access to a terminal.
 
